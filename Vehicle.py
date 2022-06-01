@@ -68,6 +68,7 @@ class Vehicle:
         returnList.append(self.muayeneTarihi)
         returnList.append(self.aracYasi)
         returnList.append(self.motorHacmi)
+        returnList.append(self.vergiUcreti)
         return returnList
     
        #Pythonun default methodlarindan olan str methodunu obje olusturdugumda aracin bilgilerini ekrana yazabilmek ve anlik
