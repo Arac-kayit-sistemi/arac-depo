@@ -3,7 +3,7 @@ Plakasını girmiş olduğumuz aracın muayene tarihi,arac modeli,benzin türü,
 
 program açiliş menüsünde araç ekleme, eklenen tüm araçları görüntüleme, plakadan araç bilgisi sorgulama ve program sonlandırma seçenekleri bulunur.
 
-Program içerisinde pandas ve datetime kütüphaneleri kullanıldı.
+Program içerisinde awesome pythondan pandas ve datetime kütüphaneleri kullanıldı.
 
 program çalişma prensibi içerisinde veritabanı kullanıldı.
 
